@@ -1,1 +1,1 @@
-# html_trail
+git rm --cached index.html
